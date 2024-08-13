@@ -1,0 +1,2 @@
+# Coördinaten per postcode (6PP)
+This dataset contains the longitude and latitude of the 464,106 Dutch zipcodes (postcodes) present in the 'Volledige postcode (PC6)' dataset from CBS for the year 2023. The granularity is at the 6PP level (4 numbers followed by 2 characters, i.e. 3013AK) so each zipcode has unique coordinates. The data is available in CSV format and contains three columns: `postcode`, `longitude`, `latitude`. 
